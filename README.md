@@ -1,7 +1,7 @@
 <h1 align="center">hola , Soy Renzo Doratto</h1>
 <h3 align="center">Un joven de 23 años Desarrollador Full-Stack, con ganas de apreder,mejorar y TRABAJAR!</h3>
 
-- 🔭 Recientemente estube trabajando en  una aplicacion de mensajeria instantanea, utilizando tecnologias como Socket.io/ React/ Redux/ Express/ Chakra/ Js/ entre otras, te dejo la APP para que le heches un vistazo [TalkApp](https://client-deploy-wild-design.vercel.app/)
+- 🔭 Recientemente estube trabajando en  una aplicacion de mensajeria instantanea, utilizando tecnologias como Socket.io/ React/ Redux/ Express/ Chakra/ Js/ entre otras
 
 - Mail de contactoo **Renzodoratto1@hotmail.com**
 
